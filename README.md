@@ -16,7 +16,7 @@ If a number is divisible by both 3 and 5, say “cheese and potatoes” instead 
 ------------------------
 REQUIREMENTS
 ------------------------
-This game was built in Python 2.7 but the game is dependant on a specific release of Python.
+This game was built in Python 2.7 but the game is not dependant on a specific release of Python.
 
 ---------------------
 INSTALLATION
