@@ -1,5 +1,5 @@
 # Math_in_your_head
-math_in_your_head allows you to cheat at the multiplication table quiz and/or drinking game Cheese and Potatoes.
+Allows you to cheat at the multiplication table quiz and/or drinking game Cheese and Potatoes.
 
 -----------------------
 INTRODUCTION
